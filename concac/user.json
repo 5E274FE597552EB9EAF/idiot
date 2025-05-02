@@ -1,64 +1,20 @@
 {
-  "keyauths": [
-    {
-      "key": "thithoai-922257DCB19A3B1BDF62",
-      "expires": "lifetime"
-    },
-    {
-      "key": "nekov-4D9E246FF55ED75BAB5B1F1B",
-      "expires": "lifetime"
-    },
-    {
-      "key": "TRUNGF6135C86BD52A35218DSJJEMAD",
-      "expires": "lifetime"
-    },
-    {
-      "key": "INCOMING9127SAD888401ASG91236AF",
-      "expires": "lifetime"
-    },
-    {
-      "key": "THANHTRUNGF6KWJGY296KGD0016TQQWU",
-      "expires": "lifetime"
-    },
-    {
-      "key": "CHEZN91291JAV6QCCC6M7623491SAKJF",
-      "expires": "lifetime"
-    },
-    {
-      "key": "PHATECO-GYHEDHII12397ASDHOUREXBN",
-      "expires": "lifetime"
-    },
-    {
-      "key": "anhemtriadsF6135C86BD52A35218D",
-      "expires": "lifetime"
-    },
-    {
-      "key": "BOEZ123JHGRD123DJJ1G23TY1HXSI1O",
-      "expires": "lifetime"
-    },
-    {
-      "key": "Yungnori-916jdvJagvwi286kHgab018",
-      "expires": "lifetime"
-    },
-    {
-      "key": "YOUTUBEOQNSHZBALSI197NSBSI292739",
-      "expires": "lifetime"
-    },
-    {
-      "key": "HarryJASDHJ123KGZO89127FJASDG231",
-      "expires": "2025-05-15"
-    },
-    {
-      "key": "TamnhKAHWLEOCHNWKZJ1973KAGQJJWJ8",
-      "expires": "2025-05-16"
-    },
-    {
-      "key": "sinobichan123HJA7812BZO12O76ZM3X",
-      "expires": "2025-05-17"
-    },
-    {
-      "key": "PHAT917hsbi91kanoq891KabYabLOZMB",
-      "expires": "2025-05-18"
-    }
-  ]
+    "version": "1.0.0",
+    "keyauths": [
+        "thithoai-922257DCB19A3B1BDF62",
+        "nekov-4D9E246FF55ED75BAB5B1F1B",
+        "TRUNGF6135C86BD52A35218DSJJEMAD",
+        "INCOMING9127SAD888401ASG91236AF",
+        "THANHTRUNGF6KWJGY296KGD0016TQQWU",
+        "CHEZN91291JAV6QCCC6M7623491SAKJF",
+        "PHATECO-GYHEDHII12397ASDHOUREXBN",
+        "anhemtriadsF6135C86BD52A35218D",
+        "BOEZ123JHGRD123DJJ1G23TY1HXSI1O",
+        "HarryJASDHJ123KGZO89127FJASDG231",
+        "TamnhKAHWLEOCHNWKZJ1973KAGQJJWJ8",
+        "sinobichan123HJA7812BZO12O76ZM3X",
+        "PHAT917hsbi91kanoq891KabYabLOZMB",
+        "Yungnori-916jdvJagvwi286kHgab018",
+        "YOUTUBEOQNSHZBALSI197NSBSI292739"
+    ]
 }
